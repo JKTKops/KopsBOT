@@ -1,0 +1,2 @@
+# KopsBOT
+JKTKops' twitch bot
